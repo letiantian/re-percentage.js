@@ -1,0 +1,26 @@
+{
+  "name": "re-percentage",
+  "version": "0.1.0",
+  "description": "repercentage('12%') == 0.12",
+  "main": "re-percentage.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/someus/re-percentage.js.git"
+  },
+  "keywords": [
+    "percentage",
+    "percent"
+  ],
+  "author": "Letian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/someus/re-percentage.js/issues"
+  },
+  "homepage": "https://github.com/someus/re-percentage.js#readme"
+}
